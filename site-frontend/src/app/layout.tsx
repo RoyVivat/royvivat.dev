@@ -11,7 +11,6 @@ const inter = Inter({ subsets: ['latin'] });
 const RootLayout = ({ children }: React.PropsWithChildren) => (
   <html lang="en">
     <body className={inter.className}>
-      <Navbar />
       <StyledComponentsRegistry>{children}</StyledComponentsRegistry>
     </body>
   </html>

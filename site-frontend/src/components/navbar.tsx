@@ -9,12 +9,12 @@ import { Menu } from 'antd';
 
 const items: MenuProps['items'] = [
     {
-        label: 'Navigation One',
+        label: 'Resume',
         key: 'mail',
         icon: <MailOutlined />,
     },
     {
-        label: 'Navigation Two',
+        label: 'Portfolio',
         key: 'app',
         icon: <AppstoreOutlined />,
         disabled: true,
