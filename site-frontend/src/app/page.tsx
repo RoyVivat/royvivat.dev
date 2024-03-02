@@ -1,8 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
-import Navbar from '@/components/navbar';
-
+import React, { useState } from 'react';;
 
 export default function Home() {
 	// if (typeof window !== "undefined") {
