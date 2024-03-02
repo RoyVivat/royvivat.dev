@@ -7,8 +7,7 @@ export default function Hero() {
     <div
       className="hero min-h-screen"
       style={{
-        backgroundImage:
-          "url(https://images.pexels.com/photos/2832045/pexels-photo-2832045.jpeg)",
+        backgroundImage: "url('/pexels-felix-mittermeier-2832045.jpg')",
         backdropFilter: "blur(16px)",
       }}
     >
